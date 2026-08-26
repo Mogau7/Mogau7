@@ -1,4 +1,4 @@
-# Mogau Mamabolo 👋
+# Mogau Mamabolo 
 
  whomi: Mogau aka Papta 🧔
  

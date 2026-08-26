@@ -16,7 +16,7 @@ Currently wrapping up Matric, but spending my spare time experimenting with web 
 | :--- | :--- | :--- | :--- |
 | **FinSecure** 📈 | Financial calculator app with global economic news feeds. | JavaScript, HTML5, CSS3, Claude | *In development* |
 | **Browser Games** 🎮 | Interactive web games built to practice game loops and logic. | JavaScript, Vanilla CSS, Canva | *In development* |
-| **Simplewebapp** 📂 | Early sandbox environment for basic web layouts. | HTML5, CSS3 | *In Development* |
+| **Simpleweb** 📂 | Early sandbox environment for basic web layouts. | HTML5, CSS3 | *In Development* |
 | **new 3** 🏫 | My recent School project linking JavaScript and Python logic. | Notepad++, JavaScript, Python | *Done* |
 | **Salesify** 💼 | My 2025 School project analyzing business data flows. | Notepad++ | *Done* |
 
@@ -27,7 +27,7 @@ Currently wrapping up Matric, but spending my spare time experimenting with web 
 * **Code:** JavaScript, HTML5, CSS3, DOM Manipulation, Python basics 💻
 * **Workflow:** Notepad++, VS Code, Cursor, Git, GitHub ⚙️
 * **Design:** Canva 🎨
-* **AI:** Claude & ChatGPT (brainstorming and speed) 🤖
+* **AI:** Claude & ChatGPT 🤖
 
 ---
 

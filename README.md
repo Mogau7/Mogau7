@@ -1,7 +1,45 @@
-- 🔭 I’m currently working on creating a desktop and wb app
-- 🌱 I’m currently learning software development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with learning more skills more about software development
-- 💬 Ask me about anything software, trading, and music related
-- 📫 How to reach me: mogaumamabolo93@gmail.com
-- ⚡ Fun fact: I make music on my free time, trade, and learn other skills
+# Mogau Mamabolo 👋
+
+ whomi: Mogau aka Papta 🧔
+ 
+Self-taught developer based in Johannesburg, South Africa. 
+
+I don't have a tech degree yet, but I love building software. I am a hybrid developer—I learned programming logic the hard way using **Notepad++**, and now use tools like Claude and Cursor to build and debug much faster. 🧠
+
+Currently wrapping up Matric, but spending my spare time experimenting with web logic and building software. 🛠️
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **FinSecure** 📈 | Financial calculator app with global economic news feeds. | JavaScript, HTML5, CSS3, Claude | *In development* |
+| **Browser Games** 🎮 | Interactive web games built to practice game loops and logic. | JavaScript, Vanilla CSS, Canva | *In development* |
+| **Simplewebapp** 📂 | Early sandbox environment for basic web layouts. | HTML5, CSS3 | *In Development* |
+| **new 3** 🏫 | My recent School project linking JavaScript and Python logic. | Notepad++, JavaScript, Python | *Done* |
+| **Salesify** 💼 | My 2025 School project analyzing business data flows. | Notepad++ | *Done* |
+
+---
+
+### 🛠️ Skills & Tools
+
+* **Code:** JavaScript, HTML5, CSS3, DOM Manipulation, Python basics 💻
+* **Workflow:** Notepad++, VS Code, Cursor, Git, GitHub ⚙️
+* **Design:** Canva 🎨
+* **AI:** Claude & ChatGPT (brainstorming and speed) 🤖
+
+---
+
+### 🌱 Learning Next
+
+* **React.js** for modern web apps.
+* **MySQL** for secure databases.
+* **Cybersecurity** for user data protection 🔒
+
+---
+
+### 💬 Connect
+
+* **Email:** mogaumamabolo93@gmail.com ✉️
+* **Interests:** Music production 🎵 | Financial trading 📊 | Peace 🧘‍♂️

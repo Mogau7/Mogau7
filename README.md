@@ -1,16 +1,16 @@
 # Mogau Mamabolo 
 
- whomi: Mogau aka Papta 🧔
+ whomi: Mogau 
  
-Self-taught developer based in Johannesburg, South Africa. 
+Self-taught developer based in South Africa. 
 
-I don't have a tech degree yet, but I love building software. I am a hybrid developer—I learned programming logic the hard way using **Notepad++**, and now use tools like Claude and Cursor to build and debug much faster. 🧠
+I don't have a tech degree yet, but I love building software. I am a software developer. I learned programming logic the hard way using **Notepad++**, and now use tools like Claude and Cursor to build and debug much faster. 
 
-Currently wrapping up Matric, but spending my spare time experimenting with web logic and building software. 🛠️
+Currently wrapping up Matric, but spending my spare time experimenting with web logic and building software. 
 
 ---
 
-### 🚀 Projects
+### Projects
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -22,24 +22,24 @@ Currently wrapping up Matric, but spending my spare time experimenting with web 
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
-* **Code:** JavaScript, HTML5, CSS3, DOM Manipulation, Python basics 💻
-* **Workflow:** Notepad++, VS Code, Cursor, Git, GitHub ⚙️
-* **Design:** Canva 🎨
-* **AI:** Claude & ChatGPT 🤖
+* **Code:** JavaScript, HTML5, CSS3, DOM Manipulation, Python basics 
+* **Workflow:** Notepad++, VS Code, Cursor, Git, GitHub 
+* **Design:** Canva 
+* **AI:** Claude & ChatGPT 
 
 ---
 
-### 🌱 Learning Next
+### Learning Next
 
-* **React.js** for modern web apps.
-* **MySQL** for secure databases.
+* **Python** for modern web apps.
+* **.NET** for secure databases.
 * **Cybersecurity** for user data protection 🔒
 
 ---
 
-### 💬 Connect
+### Connect
 
-* **Email:** mogaumamabolo93@gmail.com ✉️
+* **Email:** mogaumamabolo93@gmail.com 
 * **Interests:** Music production 🎵 | Financial trading 📊 | Peace 🧘‍♂️

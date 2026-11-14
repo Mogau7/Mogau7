@@ -1,45 +1,52 @@
-# Mogau Mamabolo 
+<div align="center">
 
- whomi: Mogau 
- 
-Self-taught developer based in South Africa. 
+```text
+┌──────────────────────────────────────────────────────────┐
+│  mogau@za:~\$ whoami                                      │
+│  > mogau mamabolo // self-taught software developer      │
+│  > location: south africa | status: wrapping up matric   │
+└──────────────────────────────────────────────────────────┘
+```
 
-I don't have a tech degree yet, but I love building software. I am a software developer. I learned programming logic the hard way using **Notepad++**, and now use tools like Claude and Cursor to build and debug much faster. 
+**No CS degree yet—just pure curiosity, late-night experiments, and clean logic.**  
+I started out writing code the hard way in **Notepad++** to understand how things actually work under the hood. Today, I pair those fundamentals with **Cursor** and **Claude** to explore codebases, debug, and ship faster.
 
-Currently wrapping up Matric, but spending my spare time experimenting with web logic and building software. 
-
----
-
-### Projects
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **FinSecure** 📈 | Financial calculator app with global economic news feeds. | JavaScript, HTML5, CSS3, Claude | *In development* |
-| **Browser Games** 🎮 | Interactive web games built to practice game loops and logic. | JavaScript, Vanilla CSS, Canva | *In development* |
-| **Simpleweb** 📂 | Early sandbox environment for basic web layouts. | HTML5, CSS3 | *In Development* |
-| **new 3** 🏫 | My recent School project linking JavaScript and Python logic. | Notepad++, JavaScript, Python | *Done* |
-| **Salesify** 💼 | My 2025 School project analyzing business data flows. | Notepad++ | *Done* |
+</div>
 
 ---
 
-### Skills & Tools
+### `01 // PROJECTS & PLATFORMS I USE`
 
-* **Code:** JavaScript, HTML5, CSS3, DOM Manipulation, Python basics 
-* **Workflow:** Notepad++, VS Code, Cursor, Git, GitHub 
-* **Design:** Canva 
-* **AI:** Claude & ChatGPT 
-
----
-
-### Learning Next
-
-* **Python** for modern web apps.
-* **.NET** for secure databases.
-* **Cybersecurity** for user data protection 🔒
+| Tool / Project | How I Use It | Category |
+| :--- | :--- | :--- |
+| **Cursor & VS Code** ⚡ | My daily environments for writing, debugging, and restructuring web & Python code. | *Editors* |
+| **Claude & ChatGPT** 🧠 | Pair-programming partners for logic breakdowns, syntax fixes, and rapid prototyping. | *AI Workflow* |
+| **Git & GitHub** 🐙 | Version control, hosting repositories, and studying open-source projects. | *Collaboration* |
+| **Notepad++** 📝 | Where I learned raw HTML, CSS, JavaScript, and Python syntax from scratch. | *Foundations* |
+| **Canva** 🎨 | Quick UI mockups, visual assets, and clean layouts. | *Design* |
 
 ---
 
-### Connect
+### `02 // CORE STACK`
 
-* **Email:** mogaumamabolo93@gmail.com 
-* **Interests:** Music production 🎵 | Financial trading 📊 | Peace 🧘‍♂️
+* **Languages & Web:** `JavaScript` · `HTML5` · `CSS3` · `DOM Manipulation` · `Python`
+* **Workflow:** `Cursor` · `VS Code` · `Notepad++` · `Git` · `GitHub` · `Canva`
+
+---
+
+### `03 // NEXT ON THE ROADMAP`
+
+```diff
++ Python   -> building modern, data-driven web applications
++ .NET     -> architecting secure, structured databases
++ Security -> locking down user data & defensive coding habits
+```
+
+---
+
+### `04 // OFF THE CLOCK & SIGNAL`
+
+When I'm not studying or debugging, I'm usually producing beats 🎵, watching the charts 📊, or keeping things peaceful 🧘‍♂️.
+
+* **Reach out:** [mogaumamabolo93@gmail.com](mailto:mogaumamabolo93@gmail.com)
+* **GitHub:** [@Mogau7](https://github.com)

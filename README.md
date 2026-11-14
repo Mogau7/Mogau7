@@ -1,17 +1,19 @@
 <div align="center">
 
-  <!-- Animated Wave Header Banner -->
-  <img src="https://vercel.app" width="100%" alt="Mogau Mamabolo Animated Banner" />
+  <!-- GitHub-Hosted Animated Coding Banner -->
+  <img src="https://githubusercontent.com" width="100%" alt="Animated Grid" />
+
+  <br />
 
   <!-- Animated Typing Terminal Tagline -->
-  <a href="https://github.com">
+  <a href="https://github.com/Mogau7">
     <img src="https://demolab.com." alt="Animated Typing Tagline" />
   </a>
 
   <br />
 
-  <!-- Animated Coding GIF -->
-  <img src="https://giphy.com" width="420" alt="Animated Developer Setup" />
+  <!-- GitHub-Hosted Animated Developer GIF -->
+  <img src="https://githubusercontent.com" width="440" alt="Animated Developer Setup" />
 
 </div>
 
@@ -61,14 +63,12 @@ I started out writing code the hard way in **Notepad++** to understand how thing
 
 ### `04 // OFF THE CLOCK & SIGNAL`
 
-<img align="right" src="https://giphy.com" width="220" alt="Animated Neon Coding Vibe" />
+<img align="right" src="https://githubusercontent.com" width="180" alt="Animated Coding Vibe" />
 
 When I'm not studying or debugging, I'm usually producing beats 🎵, watching the charts 📊, or keeping things peaceful 🧘‍♂️.
 
 * **Email:** [mogaumamabolo93@gmail.com](mailto:mogaumamabolo93@gmail.com)
-* **GitHub:** [@Mogau7](https://github.com)
+* **GitHub:** [@Mogau7](https://github.com/Mogau7)
 
 <br clear="both" />
 
-<!-- Animated Wave Footer -->
-<img src="https://vercel.app" width="100%" alt="Footer Wave" />

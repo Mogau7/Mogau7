@@ -13,7 +13,7 @@ I like software that runs on your machine, works without an account, and keeps w
 ---
 
 ### What I work with
-`JavaScript` · `HTML5` · `CSS3` · `Python` · `Cursor` · `VS Code` · `Git` · `GitHub` · `Claude`
+`JavaScript` · `HTML5` · `CSS3` · `Python` · `Cursor` · `VS Code` · `Git` · `GitHub` · `Claude`, `Typescript` · `Rust` · `Java` · `Json` · `React` · 
 
 ---
 

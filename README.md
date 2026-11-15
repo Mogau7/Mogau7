@@ -4,8 +4,6 @@
 
 Self-taught developer, based in South Africa. I build software end to end — the logic, the interface, and the deploy.
 
-I started learning programming the hard way in Notepad++, and now pair those fundamentals with AI tools to build and ship faster.
-
 I like software that runs on your machine, works without an account, and keeps working when the internet doesn't. If it needs a manual, it isn't finished.
 
 > *"I don't talk much. I just pay attention and build."*
@@ -13,7 +11,7 @@ I like software that runs on your machine, works without an account, and keeps w
 ---
 
 ### What I work with
-`JavaScript` · `HTML5` · `CSS3` · `Python` · `Cursor` · `VS Code` · `Git` · `GitHub` · `Claude`, `Typescript` · `Rust` · `Java` · `Json` · `React` · 
+`JavaScript` · `mysql` · `C++` · `Python` · `Css` · `.Net` · `Git` · `GitHub` · `Claude`, `Typescript` · `Rust` · `Java` · `Json` · `React` · 
 
 ---
 

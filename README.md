@@ -1,4 +1,4 @@
-# Mogau Mamabolo — Software Developer
+# Mogau Mamabolo — Full Stack Engineer
 
 ### Who am I
 
@@ -17,13 +17,6 @@ I like software that runs on your machine, works without an account, and keeps w
 
 ### Contributions
 Building web tools, experimenting with AI-assisted workflows, and shipping clean code.
-
----
-
-### Numbers
-* **100%** local-first mindset
-* **0** unnecessary accounts
-* **24/7** beats, charts & code
 
 ---
 
